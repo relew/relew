@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relew&label=Profile%20views&color=0e75b6&style=flat" alt="relew" /> </p>
 
-- 🔭 I’m currently working on **jobProjectSample1**
+- 🔭 I’m currently working on **MLZoomCamp**
 
 - 📫 How to reach me **rollylevente.gmail.com**
 
